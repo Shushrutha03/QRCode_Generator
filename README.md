@@ -1,9 +1,9 @@
 # QRCode_Generator
 
-##Description
+**Description**
 This Python script generates QR codes from input data, such as URLs or text, using the qrcode library. It's a simple tool that allows you to create QR codes for various purposes.
 
-##How to Use
+**How to Use**
 1.Install the required library:
 
 Before using the script, you need to install the qrcode library if you haven't already. You can install it using pip:
@@ -16,10 +16,10 @@ img = qrcode.make("https://www.linkedin.com/in/shushrutha-a-528a71253")
 
 Execute the script, and it will generate a QR code based on the input data and save it as an image file named "qr.png" in the same directory as the script.
 
-##Example
+**Example:**
 In the provided code, a QR code for the LinkedIn profile generated and saved as "qr.png."
 
-##Acknowledgments
+**Acknowledgments**
 This script uses the qrcode library for QR code generation. Thanks to the developers of the qrcode library for creating this useful tool.
 
 Feel free to use this script to generate QR codes for your own URLs or text data.
