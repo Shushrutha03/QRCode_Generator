@@ -5,15 +5,14 @@ This Python script generates QR codes from input data, such as URLs or text, usi
 
 **How to Use**
 1.Install the required library:
-
 Before using the script, you need to install the qrcode library if you haven't already. You can install it using pip:
-pip install qrcode
-2.Customize the input data:
+   pip install qrcode
 
+2.Customize the input data:
 Edit the script and replace the URL or text you want to encode into the QR code. You can do this by modifying the following line:
 img = qrcode.make("https://www.linkedin.com/in/shushrutha-a-528a71253")
-3.Run the script:
 
+3.Run the script:
 Execute the script, and it will generate a QR code based on the input data and save it as an image file named "qr.png" in the same directory as the script.
 
 **Example:**
