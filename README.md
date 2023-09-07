@@ -4,6 +4,7 @@
 This Python script generates QR codes from input data, such as URLs or text, using the qrcode library. It's a simple tool that allows you to create QR codes for various purposes.
 
 **How to Use**
+
 1.Install the required library:
 Before using the script, you need to install the qrcode library if you haven't already. You can install it using pip:
    pip install qrcode
