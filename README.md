@@ -24,5 +24,3 @@ This script uses the qrcode library for QR code generation. Thanks to the develo
 
 Feel free to use this script to generate QR codes for your own URLs or text data.
 
-For more information about the qrcode library, visit: qrcode library on GitHub
-
